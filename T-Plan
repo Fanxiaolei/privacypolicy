@@ -1,0 +1,43 @@
+Privacy policy, T-Plan for Android
+
+We want to be clear about the kinds of information we collect, and how it is used. We want you to know that we make an effort to not be creepy.
+
+Android device permissions used
+
+This is a complete list of permissions requested by the latest version of the app. This list will be updated as the set of necessary permissions and the intents of their usage change.
+
+Full network access (android.permission.INTERNET)
+Purpose: Submitting statistics and user-provided feedback.
+View network connections (android.permission.ACCESS_NETWORK_STATE)
+Purpose: Allows the app adjust its behaviour based on network connectivity.
+Approximate and precise locations (android.permission.ACCESS_COARSE_LOCATION, android.permission.ACCESS_FINE_LOCATION)
+Purpose: Makes the 'nearby stops' functionality possible.
+Access to external storage (android.permission.READ_EXTERNAL_STORAGE, android.permission.WRITE_EXTERNAL_STORAGE)
+Purpose: Required by Google Maps for caching of map data.
+Google Services (com.google.android.providers.gsf.permission.READ_GSERVICES)
+Purpose: Required by Google Maps to access Google web-based services.
+Purpose of data collection
+
+This Android App collects anonymous data in order to better understand the needs and behaviours of its users. This information helps the app's developers find bugs and identify areas of improvement.
+
+Collected data will not be sold to third parties.
+
+Types of data collected
+
+User Account
+Opening of various activities
+Adding and removing favourite stops
+Manual location refresh attempts
+Failures in the context of the app, such as inability to submit feedback due to lack of network connectivity
+These metrics are viewed in aggregate through Google Analytics. In accordance with Google Analytics policy, metrics will not include personally-identifiable information.
+
+If T-Plan crashes, a crash report is submitted to the developers. The crash report will contain the app's logs, as well as information that can uniquely and permanently identify your device. 
+Refer to the ACRA Report Content page for details on the kinds of data included in a crash report.
+
+Crash reports and Google Analytics metrics are transferred over the internet securely via HTTPS.
+
+Changes
+
+T-Plan for Android is under rapid development, so changes to this policy are to be expected.
+
+Changes to this policy will be announced in the app changelog in a timely manner.
